@@ -1,13 +1,15 @@
 ---
-title: "Documentation"
+title: "Dokumentation"
 ---
 
-[Join](https://nycmesh.net/join) our community-owned network to replace your current internet connection.
+[Mach mit](https://karlsruhe.freifunk.net/mitmachen/) Wir bauen ein regionales WLAN-Netzwerk in Karlsruhe und Umgebung und bieten dabei freien Internetzugang an.
 
-Our [Slack chat](https://slack.nycmesh.net/) is a great resource to connect with our active community.
+Dafür benötigen wir deine Unterstützung!
 
-[Getting Started](/intro/gettingstarted)  
+[Erste Schritte](/intro/ersteschritte)  
 [Hardware](/hardware)  
-[Networking and Architecture](/networking)
+[Netzwerkarchitektur](/networking)
 
-[NYC Mesh Main Site →](https://nycmesh.net)
+[Kontakt](/organisation/kontakt)
+
+[Hauptseite →](https://karlsruhe.freifunk.net)
