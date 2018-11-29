@@ -16,7 +16,7 @@ IMPORTANT, markdown needs two spaces "  " at the end of every line here to creat
 **Dark fiber**: noch nicht genutzes Glasfaserkabel das bis jetzt dunkel ist.  
 **Freifunk**:  
 **Gateway**:  
-**Hub**:  
+**Hub**: Ein Hub verfügt über eine odere mehrere Verbindungen zu einem Supernode und dient zuätzlich anderen Nodes als Netzzugang.
 **IPv4**: die veraltete Version des Internet-Protokolls (IP), eine IPv4-Adresse besteht aus vier Oktetts, z.B. 192.168.1.20  
 **IPv6**: die 6. und aktuelle Version des Internet-Protokolls. Entwickelt, um IPv4 zu ersetzen. z.B. 2001:db8:0:0:1:1:1:1:1:1:1:1  
 **Knoten/Node**:  
