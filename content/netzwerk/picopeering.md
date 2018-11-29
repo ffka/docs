@@ -2,9 +2,7 @@
 title: "Pico Peering"
 ---
 
-
 Als Grundlage des Freifunk in Karlsruhe, dient das Pico Peering Agreement. Jeder der einen Freifunk Knoten betreibt erkärt erklärt sich automatisch mit diesem einverstanden.
-
 
 
 ### Pico Peering Agreement v1.0
