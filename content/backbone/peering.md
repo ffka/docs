@@ -22,6 +22,7 @@ This community-run public network supplies all Verein zur Förderung freier Netz
 | Building | Address                                   | Ports    |
 | -------- | ----------------------------------------- | -------- |
 | - - -    | Lorzenstraße/Brauerstraße, Karlsruhe, BW  | 1G / 10G |
+| Steinbuch Centre for Computing - KIT CS | Zirkel 2, 76131 Karlsruhe, BW | 1G / 10G|
 
 More locations comming soon.
 
@@ -31,8 +32,8 @@ More locations comming soon.
 ASN: 202329  
 IRR AS-SET: AS-VZFFNRMO  
 Peering Contact: noc@karlsruhe.freifunk.net
-Recommended Max Prefix IPv4: 2  
-Recommended Max Prefix IPv6: 12  
+Recommended Max Prefix IPv4: 10  
+Recommended Max Prefix IPv6: 20  
 PeerDB Page: [https://as202329.peeringdb.com](https://as202329.peeringdb.com)  
 As a non-profit, please consider providing as many routes as possible, including upstream or other routes.
 
@@ -44,4 +45,5 @@ Thank you to those who have peered!
 | ASN     | Organization                             | Exchange  |
 | ------- | ---------------------------------------- | --------- |
 | AS6939  | Hurricane Electric LLC                   |   - - -   |
+| AS49697 | NETSHELTER - Joey Julian Koenig          |   - - -   |
 | AS64475 | Freifunk Frankfurt am Main e.V.          |   - - -   |
