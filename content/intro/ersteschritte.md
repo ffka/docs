@@ -8,6 +8,8 @@ Im Normalfall findest du dort alle Informationen die du benötigst um deinen ers
 
 Es gibt aber auch ein paar Spezialfälle bei denen du hier anhaltspunke finden kannst.
 
+**Freifunk Firmware Instalieren**
+
 **Am Richtfunk-Backbone teilnehmen**  
 
 **Plaung von Großinstallationen**
