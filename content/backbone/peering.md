@@ -31,7 +31,7 @@ More locations comming soon.
 
 ASN: 202329  
 IRR AS-SET: AS-VZFFNRMO  
-Peering Contact: noc@karlsruhe.freifunk.net
+Peering Contact: noc@karlsruhe.freifunk.net  
 Recommended Max Prefix IPv4: 10  
 Recommended Max Prefix IPv6: 20  
 PeerDB Page: [https://as202329.peeringdb.com](https://as202329.peeringdb.com)  
