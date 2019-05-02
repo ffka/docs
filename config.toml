@@ -1,5 +1,6 @@
 baseurl = ""
 relativeurls = true
+defaultContentLanguage = "de"
 languageCode = "de-de"
 title = "VZFFNRMO Docs"
 pluralizeListTitles = false
